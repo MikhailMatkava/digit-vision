@@ -89,6 +89,7 @@ python -m digit_vision.predict --image my_digit.png --invert
 | tests/test_pipeline.py | Отсутствие пересечений, preprocessing, сохранение/inference |
 | reports/ | Результаты выполненного запуска |
 | STUDY_GUIDE.md | Разбор кода и самостоятельные эксперименты |
+| explore.py, EXPERIMENTS.md | Сравнение результатов на нескольких validation-разделениях |
 | PUBLISH.md | Публикация на GitHub |
 
 GitHub Actions содержит команды тестов и сквозного запуска. В облачном CI workflow
